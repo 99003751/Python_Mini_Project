@@ -21,4 +21,4 @@ The aim of the project is to extract the data present in different spreadsheets 
 
 10.biolab
 
-The user defines the data that needs to be searched on the basis of Name and PS Number. The python program then reads the data corresponding to the particular data from different spreadsheets of excel. It then creates a mastersheet and adds the data from all the sheets to it. In the end, the data to be provided to the user is printed to the console.
+The user defines the data that needs to be searched on the basis of Name, PS Number and Email ID. The python program then reads the data corresponding to the particular data from different spreadsheets of excel. It then creates a mastersheet and adds the data from all the sheets to it. In the end, it will plot the bar graph from data present in the mastersheet. 
